@@ -16,7 +16,7 @@ export default function Hero() {
       <div className={s.inner}>
         <div className={s.eyebrow}>
           <span className={s.eyebrowLine} />
-          Rebranding w toku
+          Strona w przebudowie
         </div>
 
         <h1 className={s.title}>
@@ -26,20 +26,8 @@ export default function Hero() {
         </h1>
 
         <p className={s.desc}>
-          Studnie Dziurex to teraz <strong>SGBB Krzysztof Bąk</strong> —
-          Studnie Głębinowe Bielsko&#8209;Biała. Pracujemy nad nową stroną
-          internetową, gdzie znajdziesz pełną ofertę usług i dane kontaktowe.
+          Strona internetowa jest obecnie w przebudowie. Zapraszamy wkrótce.
         </p>
-
-        <a
-          href="https://sgbb.pl"
-          className={s.btnCta}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <span className={s.btnText}>Odwiedź nową stronę</span>
-          <span className={s.btnDomain}>sgbb.pl →</span>
-        </a>
       </div>
       <ScrollHint />
     </section>

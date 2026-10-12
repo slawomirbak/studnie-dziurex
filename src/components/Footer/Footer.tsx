@@ -12,14 +12,6 @@ export default function Footer() {
           © 2026 Studnie Dziurex. Wszelkie prawa zastrzeżone.
         </div>
         <div className={s.right}>
-          <a
-            href="https://sgbb.pl"
-            target="_blank"
-            rel="noopener noreferrer"
-            className={s.link}
-          >
-            Nowa strona: sgbb.pl →
-          </a>
           <span className={s.creator}>
             Created by <a href="mailto:slawomir.dev@" className={s.creatorLink}>slawomir.dev</a>
           </span>

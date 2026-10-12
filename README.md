@@ -1,6 +1,6 @@
 # studnie-dziurex
 
-Strona "under construction" dla studnie-dziurex.pl — przekierowuje odwiedzających do nowej strony sgbb.pl.
+Strona "under construction" dla studnie-dziurex.pl.
 
 ## Stack
 
